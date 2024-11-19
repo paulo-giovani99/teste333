@@ -1,0 +1,73 @@
+body{
+    background-color: #F5F5F5;
+}
+h1{
+    color: #B8860B;
+    text-align: center;
+    font-family:Helvetica;
+}
+#imagem{
+    text-align: center;
+}
+hr{
+    background-color: #B8860B;
+    
+    height: 25px;
+}
+#vip{
+    color: aliceblue;
+}
+.button {
+    position: relative;
+    margin: 5px;
+    text-align: center;
+}
+.button a {
+    color: #ffffff;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #AD0909;
+   border-radius: 16px; 
+    padding: 10px 20px;
+}
+  .button a:active {
+    top: 5px;
+    background-color: #42a0ed;
+ }
+
+
+  .buttonVip a:active {
+    top: 5px;
+    background-color: #42a0ed;
+  
+ }
+ .buttonVip {
+    position: relative;
+    margin: 5px;
+    text-align: center;
+    font-family: Helvetica;
+   
+
+}
+.buttonVip a {
+    color: #ffffff;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #B8860B;
+   border-radius: 16px; 
+    padding: 10px 20px;
+    width: 400px ;
+    height: 80px;
+   
+}
+  .buttonVip a:active {
+    top: 5px;
+    background-color: #42a0ed;
+ }
+ 
